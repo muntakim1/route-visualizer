@@ -1,0 +1,12 @@
+dash
+dash-core-components
+dash-html-components
+dash-bootstrap-components
+dash-daq
+plotly
+requests
+bs4
+gcmap
+pandas
+gunicorn
+whatsmyip
